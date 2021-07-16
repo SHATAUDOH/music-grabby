@@ -1,0 +1,1 @@
+const fridge = document.getElementById('data1');
